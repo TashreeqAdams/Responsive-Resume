@@ -39,15 +39,10 @@ Each section is visually consistent with the Figma reference, with careful atten
 To view or modify the completed project:
 
 - Clone the repository
-
 - Open the project folder
-
 - Launch index.html in your browser
-
 - Inspect responsiveness using DevTools
-
 - Review code in your preferred editor
-
 - No build tools or installations required — the project runs on pure HTML and CSS.
 
 ---
