@@ -4,6 +4,11 @@
 
 The Responsive Resume Project is a fully built, mobile-friendly resume website created by replicating a Figma design using semantic HTML and modern CSS techniques. The goal of the project was to accurately match the design specifications while demonstrating strong layout skills, responsive design practices, and clean, organized code.
 
+## Coding Languages Used
+- HTML
+- CSS
+- Github
+
 ## What the Project Includes
 
 This completed resume site includes all required sections from the Figma design:
